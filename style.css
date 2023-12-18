@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    font-size: 40px;
+    margin: 0.5rem;
+}
+
+.game-container {
+    border: 2px solid black;
+    padding: 2rem;
+    width: 400px;
+}
+
+button {
+    height: 38px;
+    width: 100px;
+}
